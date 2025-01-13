@@ -1,4 +1,3 @@
-BOT_TOKEN = "7658027615:AAEcr1we__SE2IJzRIY6Xwub2Q9NvciIL08"
 
 YOUR_WALLET = "agroma.cfuser.near"
 
